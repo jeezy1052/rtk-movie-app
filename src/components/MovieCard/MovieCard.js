@@ -22,3 +22,4 @@ const MovieCard = (props) => {
 }
 
 export default MovieCard
+// helper
